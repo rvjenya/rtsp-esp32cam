@@ -1,6 +1,3 @@
-# rtsp-video-streamer-diy-14
-YouTube Video: 
-
 
 Geekcreit® FT232RL FTDI USB To TTL Serial Converter Adapter Module Geekcreit for Arduino - products that work with official Arduino boards
 https://banggood.app.link/JL8OIem4rhb
